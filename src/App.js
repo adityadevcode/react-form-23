@@ -3,18 +3,22 @@
 // import CompleteFrom from './Components/CompleteFrom';
 // import Map from "./Components/Map";
 // import Mapstyle from "./Components/Mapstyle.css"
-import Useeffect from "./Components/Useeffect"
-import Useeffectstyle from "./Components/Useeffectstyle.css"
-
+// import Useeffect from "./Components/Useeffect"
+// import Useeffectstyle from "./Components/Useeffectstyle.css"
+// import Usereducer from "./Components/Usereducer";
+import Usereducerpt1 from "./Components/Usereducerpt1";
+import Usereducerpt1style from "./Components/Usereducerpt1style.css";
 
 function App() {
   return (
     <div>
-      <h3>App component</h3>
+      {/* <h3>App component</h3> */}
       {/* <Form/> */}
       {/* <CompleteFrom/> */}
       {/* <Map /> */}
-      <Useeffect />
+      {/* <Useeffect /> */}
+      {/* <Usereducer /> */}
+      <Usereducerpt1/>
     </div>
   );
 }
